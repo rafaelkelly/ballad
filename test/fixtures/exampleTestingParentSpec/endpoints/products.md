@@ -1,13 +1,15 @@
-# Group Products
+# Example Spec
 
-## Products [/product]
+## Group Products
+
+### /product
 
 Represents the collection of products.
 
-### Get Product [GET]
+#### Get Product [GET]
 
 Returns a product.
 
-+ Response 200
++ Response 200 (application/json; charset=utf-8)
 
             {{example 'product'}}

@@ -1,5 +1,4 @@
 {
-  "inherit": "../parentSpec",
   "features": [
     "overview",
     "endpoints/parentDoodads",
